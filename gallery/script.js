@@ -1,4 +1,4 @@
-const USER="Hanatsuki's library ☆";
+const USER="Hanatsuki";
 const REPO="rpg-ressources";
 const ROOT="assets";
  
