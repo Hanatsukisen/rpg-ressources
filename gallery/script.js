@@ -1,4 +1,4 @@
-const USER="Hanatsuki";
+const USER="hanatsukisen";
 const REPO="rpg-ressources";
 const ROOT="assets";
  
