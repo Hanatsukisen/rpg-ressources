@@ -52,7 +52,7 @@ h1 {
 #back {
     padding: 10px 16px;
     background: var(--tx2);
-    border:1px solid #0a0605;
+    border:1px solid var(--bg3);
     border-radius: 8px;
     cursor: pointer;
     transition: .2s;
