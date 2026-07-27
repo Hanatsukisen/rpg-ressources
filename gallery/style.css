@@ -9,10 +9,11 @@
 
 :root {
     --bg1: #6e8a72;
-    --bg2: #1d1d29;
-    --bg3: #3a3a55;
+    --bg2: radial-gradient(circle, rgb(162 150 189) 0%, rgb(102 155 138) 100%);
+    --bg3: #564985;
     --bg4: #616a75;
-    --tx1: #cfc9d5
+    --tx1: #d9d3e1;
+    --linear1: linear-gradient(0deg, rgba(176, 196, 171, 1) 0%, rgba(111, 150, 119, 1) 100%);
 }
 
 * {
