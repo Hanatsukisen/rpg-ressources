@@ -13,6 +13,7 @@
     --bg3: #7d669f;
     --bg4: #6e8a72;
     --tx1: #d9d3e1;
+    --txt2: #6e8a72;
     --linear1: linear-gradient(0deg, rgba(176, 196, 171, 1) 0%, rgba(111, 150, 119, 1) 100%);
 }
 
@@ -50,7 +51,7 @@ h1 {
 
 #back {
     padding: 10px 16px;
-    background: var(--tx1);
+    background: var(--tx2);
     border:1px solid #0a0605;
     border-radius: 8px;
     cursor: pointer;
