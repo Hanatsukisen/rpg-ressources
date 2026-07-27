@@ -14,7 +14,7 @@
     --bg4: #6e8a72;
     --tx1: #d9d3e1;
     --txt2: #6e8a72;
-    --linear1: linear-gradient(0deg, rgba(176, 196, 171, 1) 0%, rgba(111, 150, 119, 1) 100%);
+    --linear1: linear-gradient(0deg, rgb(197 188 225) 0%,  rgb(95 137 103) 100%);
 }
 
 * {
