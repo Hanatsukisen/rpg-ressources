@@ -23,7 +23,7 @@
 body {
     margin: 0;
     padding: 40px;
-    background: var(--bg1);
+    background: var(--linear1);
     color: var(--tx1);
     font-family: Inter, sans-serif;
     height: 100vh;
