@@ -27,7 +27,6 @@ body {
     background: var(--linear1);
     color: var(--tx1);
     font-family: Inter, sans-serif;
-    height: 100vh;
 }
 
 h1 {
