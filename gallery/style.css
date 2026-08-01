@@ -36,7 +36,7 @@ h1 {
 }
 
   /* SCROLLBAR CUSTOM POUR MOZILLA */
-  scrollbar-color: var(--couleur1);scrollbar-width: thin;}
+  scrollbar-color: #6e8a72;scrollbar-width: thin;}
 * {scrollbar-width: thin;scrollbar-color: var(--bg3) var(--bg4);}
 
 /* Scrollbar entière */
