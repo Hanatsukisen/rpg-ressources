@@ -34,6 +34,20 @@ h1 {
     font-family: "Astone Nouvea";
     font-size: 42px;
 }
+
+  /* SCROLLBAR CUSTOM POUR MOZILLA */
+  scrollbar-color: var(--couleur1);scrollbar-width: thin;}
+* {scrollbar-width: thin;scrollbar-color: var(--bg3) var(--tx1);}
+
+/* Scrollbar entière */
+::-webkit-scrollbar {width: 8px;height: 8px;}
+/* Rail */
+::-webkit-scrollbar-track {background: var(--bg3);}
+/* Poignée */
+::-webkit-scrollbar-thumb {background: var(--bg3)!important;border: 1px solid var(--bg3);}
+
+
+
 .container {
     overflow: auto;
     height: 81vh;
