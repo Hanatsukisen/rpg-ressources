@@ -44,7 +44,7 @@ h1 {
 /* Rail */
 ::-webkit-scrollbar-track {background: var(--bg3);}
 /* Poignée */
-::-webkit-scrollbar-thumb {background: var(--bg3)!important;border: 1px solid var(--bg3);}
+::-webkit-scrollbar-thumb {background: var(--bg4)!important;border: 1px solid var(--bg4);}
 
 
 
